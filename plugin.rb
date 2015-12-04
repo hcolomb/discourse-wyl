@@ -8,10 +8,10 @@ register_asset "stylesheets/large-avatars.css.scss", :desktop
 register_asset "javascripts/discourse/templates/post/poster-avatar.raw.hbs"
 
 ### Large posts
-register_asset "stylesheets/large-posts.css.scss", :desktop
+#register_asset "stylesheets/large-posts.css.scss", :desktop
 
 ### Color modifications
-register_asset "stylesheets/colors.css.scss"
+#register_asset "stylesheets/colors.css.scss"
 
 ### Spoiler post toolbar button
 #register_asset "javascripts/spoiler-toolbar.js", :composer
